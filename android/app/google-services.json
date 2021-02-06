@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "889186784675",
+    "firebase_url": "https://smilesymbol-default-rtdb.firebaseio.com",
+    "project_id": "smilesymbol",
+    "storage_bucket": "smilesymbol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889186784675:android:5b0d4dbb86a32768377616",
+        "android_client_info": {
+          "package_name": "com.copol.yousmile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889186784675-vtjbeh4n76f0c2shmvadett5e4aq4jqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8nrCgGC1e07cR1_kJhx5AQGvr5zNRLUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889186784675-vtjbeh4n76f0c2shmvadett5e4aq4jqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
